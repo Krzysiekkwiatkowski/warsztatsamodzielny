@@ -18,7 +18,7 @@
 <H3> Test </H3>
 <label> Dane podstawowe </label></br>
 <label> Jedno
-    <input id="1" type="radio" name="type" value="1" content="Jedno" checked="checked" >
+    <input id="1" type="radio" name="type" value="1" content="Jedno" >
 </label>
 <label> Dwu
     <input id="2" type="radio" name="type" value="2" content="Dwu" >

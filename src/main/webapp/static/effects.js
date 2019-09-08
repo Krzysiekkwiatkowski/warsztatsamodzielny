@@ -6,4 +6,5 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("1").addEventListener("click", function () {
         element.setAttribute("hidden","");
     });
+    document.getElementById("1").click();
 });
